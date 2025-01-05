@@ -1,4 +1,4 @@
-CSE2221(SoftwareI)
+CSE2221(Software_I)
 
 Please be aware of the following key points:
 1. Don't forget to include your name.
