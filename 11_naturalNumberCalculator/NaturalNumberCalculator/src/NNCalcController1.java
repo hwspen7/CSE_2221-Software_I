@@ -4,7 +4,7 @@ import components.naturalnumber.NaturalNumber2;
 /**
  * Controller class.
  *
- * @author Tuo Qin
+ * @author Spencer Qin
  */
 public final class NNCalcController1 implements NNCalcController {
 
