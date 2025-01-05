@@ -15,7 +15,7 @@ import components.simplewriter.SimpleWriter1L;
  * Individual HTML pages for each term with its definition and hyperlinks to
  * other terms.
  *
- * @author Tuo Qin
+ * @author Spencer Qin
  */
 public final class Glossary {
 
