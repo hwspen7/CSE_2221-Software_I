@@ -1,0 +1,8 @@
+Java
+A programming language.
+
+Mouse
+A small rodent.
+
+Computer
+An electronic device.
