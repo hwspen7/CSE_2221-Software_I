@@ -1,0 +1,17 @@
+PROGRAM Test IS
+
+  INSTRUCTION one IS
+    CALL move
+  END one
+
+  INSTRUCTION two IS
+    CALL turnleft
+    CALL turnleft
+  END two
+
+BEGIN
+  WHILE true DO
+    CALL two
+    CALL one
+  END WHILE
+END Test

@@ -1,0 +1,15 @@
+IF next-is-enemy THEN
+    move
+ELSE
+    turnleft
+END IF
+
+
+
+
+
+
+
+
+
+ 
